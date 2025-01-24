@@ -21,3 +21,8 @@ A Streamlit-based dashboard for interacting with the DeepSeek API, built for con
    ```bash
    https://github.com/ayaanlehashi/deepseek-assistant
    cd deepseek-assistant
+   
+   Run the streamlit app. 
+   
+   streamlit run app-streamlit.py
+
