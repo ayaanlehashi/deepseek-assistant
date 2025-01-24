@@ -22,6 +22,8 @@ A Streamlit-based dashboard for interacting with the DeepSeek API, built for con
    https://github.com/ayaanlehashi/deepseek-assistant
    cd deepseek-assistant
    
+   Generate deepseek api key via https://www.deepseek.com/ and store in DEEPSEEK_API_KEY ENV variable
+
    Run the streamlit app. 
    
    streamlit run app-streamlit.py
